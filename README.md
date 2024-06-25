@@ -74,7 +74,3 @@ This line follower robot project is designed to help beginners learn the basics 
 ## Video Demonstration
 
 Watch the robot in action on [YouTube](https://www.youtube.com/watch?v=p-1j7FC7Sic).
-
-## Credits
-
-- Project inspired by a [line follower robot tutorial](https://www.example.com).
