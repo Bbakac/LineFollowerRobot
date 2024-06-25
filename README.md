@@ -24,7 +24,7 @@ This line follower robot project is designed to help beginners learn the basics 
 - **1x Motor shield for Uno**
 - **2x IR sensors**
 - **1x Small LiPo battery**
-- **Wires, standoffs, rubber band, nuts, and screws**
+- **Wires, standoffs, rubber band, and screws**
 
 ## Installation
 
